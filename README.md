@@ -1,2 +1,3 @@
 # 100DaysOfCode
-A documentation of my 100 days of code challenge
+
+This is my second attempt at this challenge. Last time, i did not know the "documentation" rule.
