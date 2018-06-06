@@ -11,3 +11,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 3
   > Continued with reading on polymer. Today i tried a hands-on practice rather than just reading. I tried making a couple of simple elements, fixed some problems with importing elements. Hopefully there will be something worth posting on github as well.
+
+* Day 4
+  > Began making a polymer carousel element by following and understanding the codelab. I'm following the polymer 2 codelab in  Poylmer 3. It took the whole day and now i'm stuck at the second last step. I even opened an issue and i'll try to fix it myself tomorrow.
