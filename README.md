@@ -18,3 +18,5 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 * Day 5
   > Opened an issue and got the solution for the error. Not the element works. Meanwhile i began learning about PWAs. I'm thinking of starting a Udemy course on that. Will provide more info on that in later days. Now i added touch events as the final step of codelab. Will test it on an actual mobile tomorrow.
 
+  > UPDATE: Tested in the mobile simulator of Chrome. It works just fine.
+
