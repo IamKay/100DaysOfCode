@@ -20,3 +20,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
   > UPDATE: Tested in the mobile simulator of Chrome. It works just fine.
 
+* Day 6
+  > Began developing a new js app. Will make a repo soon (most probably tomorrow). Also, finished the *getting to know the course* section of the PWA course. Didn't get time to do more. Also, i had to learn the basics of webpack to get the app running. One more thing, Polymer 3 community is so not good at this time. There is nothing else except the official docs for help. Hope that changes soon.
+
