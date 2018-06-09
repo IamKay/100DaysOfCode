@@ -23,3 +23,5 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 * Day 6
   > Began developing a new js app. Will make a repo soon (most probably tomorrow). Also, finished the *getting to know the course* section of the PWA course. Didn't get time to do more. Also, i had to learn the basics of webpack to get the app running. One more thing, Polymer 3 community is so not good at this time. There is nothing else except the official docs for help. Hope that changes soon.
 
+* Day 7
+  > Made the repo [here](https://github.com/kayd33/TextToEmoji). Still working on it. The processing is a bit tricky because the number of combinations to consider is high. Hoperfully till mid next week i'll work it out completely.
