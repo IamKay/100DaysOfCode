@@ -28,3 +28,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 8
   > Worked out the logic sooner than i thought. It is now working, pushed a styles commit too. It looks a acceptable now. I do have a few things left in this app. Will do that tommorow.
+
+* Day 9
+  > Completed the app. The working app is [here](https://kayd33.github.io/TextToEmoji). Working out the last bit was not easy. I was dealing with MDL library and had to make it shorter. Didn't really compare the timings but the app is definitely slower now. Looking forward to a new and interesting project. Will find one tomorrow.
