@@ -31,3 +31,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 9
   > Completed the app. The working app is [here](https://kayd33.github.io/TextToEmoji). Working out the last bit was not easy. I was dealing with MDL library and had to make it shorter. Didn't really compare the timings but the app is definitely slower now. Looking forward to a new and interesting project. Will find one tomorrow.
+
+* Day 10
+  > Thought and then dropped several ideas for projects. I began a codelab on Material 2.0 for the Web (Web always). After finishing that, i'll begin working on android for little bit (and Web on the side of course). Today i learned that git can manage multiple accounts. Setting it up is easy but i worry, one step and all configs and changed. Lost one repo in such a case. Well, today there was no commit, only offline working. Maybe tomorrow there will be.
