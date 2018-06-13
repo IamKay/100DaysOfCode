@@ -34,3 +34,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 10
   > Thought and then dropped several ideas for projects. I began a codelab on Material 2.0 for the Web (Web always). After finishing that, i'll begin working on android for little bit (and Web on the side of course). Today i learned that git can manage multiple accounts. Setting it up is easy but i worry, one step and all configs and changed. Lost one repo in such a case. Well, today there was no commit, only offline working. Maybe tomorrow there will be.
+
+* Day 11
+  > Completed the codelab. Last one included integration of Material Components into JS frameworks, and i have to say, i missed the vanilla js very much. It is much more simple. Its not that frameworks aren't better, they are but its a lot of logic in JS just to get the visual right, and being a designer first person, i have to say its not very good. I hope i get a chance to use material in one of my projects in the near future. There is one little project next, and then i'm thinking of focusing on design for a while. Also, not commits today, only offline code. 90 days to go, still strong.
