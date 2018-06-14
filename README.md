@@ -37,3 +37,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 11
   > Completed the codelab. Last one included integration of Material Components into JS frameworks, and i have to say, i missed the vanilla js very much. It is much more simple. Its not that frameworks aren't better, they are but its a lot of logic in JS just to get the visual right, and being a designer first person, i have to say its not very good. I hope i get a chance to use material in one of my projects in the near future. There is one little project next, and then i'm thinking of focusing on *Design* or *React* for a while. Also, not commits today, only offline code. 90 days to go, still strong.
+
+* Day 12
+  > Almost missed a day. Today i read and tried a little flutter. One takeaway, it is only good if you are doing it with an IDE telling you what you mean. Otherwise it takes a whole lot of time remembering what every widget is. Maybe thats a downside only for me, maybe not. Other than that, i have begun the work on making the texttoemoji a pwa and improve its design. Will continue tomorrow.
