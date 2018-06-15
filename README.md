@@ -40,3 +40,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 12
   > Almost missed a day. Today i read and tried a little flutter. One takeaway, it is only good if you are doing it with an IDE telling you what you mean. Otherwise it takes a whole lot of time remembering what every widget is. Maybe thats a downside only for me, maybe not. Other than that, i have begun the work on making the texttoemoji a pwa and improve its design. Will continue tomorrow.
+
+* Day 13
+  > Almost completed making my pwa if it wasn't for a stubborn error. Spent half of the day trying to fix it, but its not at all easy. One thing i came to know, it is necessary to clean up chrome saved data once in a while. Apparently my chrome mobile says it can't save 400kb of data because there is no space. Hope i resolve it before i snap the phone in two.
