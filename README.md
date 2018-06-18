@@ -49,3 +49,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 15
   > Spent the day reading about UX from random google articles. A lot of stuff was just repeating but the new stuff was pretty amazing, especially the psycological effects of color and motion. Created some pens copying those things in CSS. So, light coding only, but equally important.
+
+* Day 16
+  > Watched some videos on design and did a little research on apps design on mobile. Also, began working along with a video on youtube [here](https://www.youtube.com/watch?v=FE7Vtzq52xg). Hope it does take me a lot of time with this, because i got time. Then up next, i have a React project.
