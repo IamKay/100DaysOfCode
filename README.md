@@ -52,3 +52,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 16
   > Watched some videos on design and did a little research on apps design on mobile. Also, began working along with a video on youtube [here](https://www.youtube.com/watch?v=FE7Vtzq52xg). Hope it does take me a lot of time with this, because i got time. Then up next, i have a React project.
+  
+* Day 17
+  > Followed with the video and made the repo [here](https://github.com/kayd33/vigilant-sniffle). I think flutter can be a good thing for a person really wanting to go mainstream on it, but for someone learning it just for knowledge, it can be tiring. So my advice, leave at the basics. Also looked for some react ideas, when i remembered a previous idea of an analog clock. I know: simple and yet still i want to do it. And i will. Hope it turns out good.
