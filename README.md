@@ -55,3 +55,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
   
 * Day 17
   > Followed with the video and made the repo [here](https://github.com/kayd33/vigilant-sniffle). I think flutter can be a good thing for a person really wanting to go mainstream on it, but for someone learning it just for knowledge, it can be tiring. So my advice, leave at the basics. Also looked for some react ideas, when i remembered a previous idea of an analog clock. I know: simple and yet still i want to do it. And i will. Hope it turns out good.
+
+* Day 18
+  > Did a little react today. One thing that was adamant today was that CSS can be forgotten, as opposed to my previous view that i wouldn't. Today, i made an analog clock. Its not a big project, but sometimes you have to lay back before going forward. The deployed version is [here](https://kayd33.github.io/JustAClock). The UI is not what i thought, but it is what i could execute.
