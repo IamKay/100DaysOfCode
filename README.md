@@ -58,3 +58,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 18
   > Did a little react today. One thing that was adamant today was that CSS can be forgotten, as opposed to my previous view that i wouldn't. Today, i made an analog clock. Its not a big project, but sometimes you have to lay back before going forward. The deployed version is [here](https://kayd33.github.io/JustAClock). The UI is not what i thought, but it is what i could execute.
+
+* Day 19
+  > Started my learning on the Web apps. Today's lesson was [Accessibility](https://developers.google.com/web/fundamentals/accessibility/). Some of the things i learnt was the use of taborder and making for the screenreaders. Its a challenging task because during the flow of work, i tend to forget the little things. Also, restarting node.js for a project. So no commits for a while, till i decide to make an app.
