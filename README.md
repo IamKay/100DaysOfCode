@@ -61,3 +61,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 19
   > Started my learning on the Web apps. Today's lesson was [Accessibility](https://developers.google.com/web/fundamentals/accessibility/). Some of the things i learnt was the use of taborder and making for the screenreaders. Its a challenging task because during the flow of work, i tend to forget the little things. Also, restarting node.js for a project. So no commits for a while, till i decide to make an app.
+
+* Day 20
+  > Continued studying accessibility. Today learning from a course (link soon),so no commits. Only reading. Yes the rules allow that.
