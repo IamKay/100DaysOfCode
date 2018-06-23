@@ -64,3 +64,7 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 20
   > Continued studying accessibility. Today learning from a course (link soon),so no commits. Only reading. Yes the rules allow that.
+
+* Day 21
+  > Completed 3 sections of the course. Today was optimisation. Learning to make better sites. **#NotOnlyNiceLooking**
+  80 days to go. Still strong.
