@@ -68,3 +68,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 * Day 21
   > Completed 3 sections of the course. Today was optimisation. Learning to make better sites. **#NotOnlyNiceLooking**
   80 days to go. Still strong.
+
+* Day 22 
+   > Still going on with the course. Finished another section. Had a little file to make today. Took most of the day figuring out the nuances of CSS. Newer errors are emerging now. The latest one is *text node whitespace*. Hoping for the course to get over tomorrow.
