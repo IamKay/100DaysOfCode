@@ -71,3 +71,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 22 
    > Still going on with the course. Finished another section. Had a little file to make today. Took most of the day figuring out the nuances of CSS. Newer errors are emerging now. The latest one is *text node whitespace*. Hoping for the course to get over tomorrow.
+
+* Day 23
+  > Couldn't do a lot today. I was travelling. Although i managed to do a little reading on some articles and helped a friend with a problem. It wasn't easy because it wasn't what i usually do, Python. So, hoping tomorrow will be better.
