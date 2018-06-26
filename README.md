@@ -74,3 +74,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 23
   > Couldn't do a lot today. I was travelling. Although i managed to do a little reading on some articles and helped a friend with a problem. It wasn't easy because it wasn't what i usually do, Python. So, hoping tomorrow will be better.
+
+* Day 24
+  > Completed the course finally. It was basically theory thats why i completed it fast. Then read about PWAs, some numbers and stats of what makes them special. Hope to start making some with the newfound knowledge soon.
