@@ -77,3 +77,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 24
   > Completed the course finally. It was basically theory thats why i completed it fast. Then read about PWAs, some numbers and stats of what makes them special. Hope to start making some with the newfound knowledge soon.
+ 
+* Day 25
+  > Did a little reading on best practices of PWA and i have a lot of learning to do in that area. Then i worked half the day trying to set up django with postgresql. I have to tell you its not an easy thing to do on a mac. I did become annoyed but i need that combination for my work.
