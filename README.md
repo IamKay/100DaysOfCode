@@ -80,3 +80,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
  
 * Day 25
   > Did a little reading on best practices of PWA and i have a lot of learning to do in that area. Then i worked half the day trying to set up django with postgresql. I have to tell you its not an easy thing to do on a mac. I did become annoyed but i need that combination for my work.
+
+* Day 26
+  > Continued reading PWA. Today was fetch. Also, finished configuring the postgresql (with a lot of help). I do have some obstacles in the way before i can fully dedicate to web dev. Hope that i grow used to them soon because it is affecting my progress.
