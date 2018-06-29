@@ -83,3 +83,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 26
   > Continued reading PWA. Today was fetch. Also, finished configuring the postgresql (with a lot of help). I do have some obstacles in the way before i can fully dedicate to web dev. Hope that i grow used to them soon because it is affecting my progress.
+
+* Day 27
+  > Today was basically thinking day. Thinking about the future learning and building. I am currently on pwa but that limits my reach to my other desires. But when i try to pursue those, web calls me back. A dilemma. Also i did code a little, as help for a friend. The guy is doing a tough project, making an enterprise grade backend system for a company he wishes to be in. Can't say the specifics. That's it for today.
