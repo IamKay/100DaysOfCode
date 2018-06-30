@@ -86,3 +86,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 27
   > Today was basically thinking day. Thinking about the future learning and building. I am currently on pwa but that limits my reach to my other desires. But when i try to pursue those, web calls me back. A dilemma. Also i did code a little, as help for a friend. The guy is doing a tough project, making an enterprise grade backend system for a company he wishes to be in. Can't say the specifics. That's it for today.
+
+* Day 28
+  > Learnt about flutter a little. As for web, i started with the basics of IndexedDB along with a codelab as well. Long day today, not a practical work.
