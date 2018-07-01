@@ -89,3 +89,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 28
   > Learnt about flutter a little. As for web, i started with the basics of IndexedDB along with a codelab as well. Long day today, not a practical work.
+
+* Day 29
+  > Learnt a lot about my progress in JS. I have a long way to go. I am currently fixing some issues in a product in JS. It is a simple task of making a function but the thought of DRY makes it time consuming. Advice: Don't always go for the fancy ways that people are using. If it can work, use the simple ones.
