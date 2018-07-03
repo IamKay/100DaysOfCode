@@ -95,3 +95,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 30
   > Did a little JS, watched some videos. Nothing fancy, just vanilla. Posted it here as well. Don't really have an idea for a big project or a small one for that matter. I am searching but in the meanwhile, small pens i like.
+
+* Day 31
+  > Spent the day watching JS vids and nothing else. The code written today was PHP (i know pfff). It was as a help for someone. Just keeping the "code everyday" tradition alive. No links to share as of now. Maybe soon. 70 days to go. Still strong.
