@@ -98,3 +98,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 31
   > Spent the day watching JS vids and nothing else. The code written today was PHP (i know pfff). It was as a help for someone. Just keeping the "code everyday" tradition alive. No links to share as of now. Maybe soon. 70 days to go. Still strong.
+
+* Day 32
+  > Today PHP took most of the time. Rest (whatever of it) was spent watching JS vids. There are a lot of good creators on Youtube for that. So, same thing for a number of days. And probably for some more days as well.
