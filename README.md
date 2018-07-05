@@ -101,3 +101,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 32
   > Today PHP took most of the time. Rest (whatever of it) was spent watching JS vids. There are a lot of good creators on Youtube for that. So, same thing for a number of days. And probably for some more days as well.
+
+* Day 33
+  > More JS vids. This time i aimes for the more complex topics like async. There is a great video that i liked [here](https://www.youtube.com/watch?v=SrNQS8J67zc). I found Shelley Vohr to be very cute (i know, obvious). She looks my age and she is working at Github. Wish i knew the secret. Did some offline work too. Its a private repo so cant post a link.
