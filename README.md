@@ -104,3 +104,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 33
   > More JS vids. This time i aimes for the more complex topics like async. There is a great video that i liked [here](https://www.youtube.com/watch?v=SrNQS8J67zc). I found Shelley Vohr to be very cute (i know, obvious). She looks my age and she is working at Github. Wish i knew the secret. Did some offline work too. Its a private repo so cant post a link.
+
+* Day 34
+  > Couple of JS videos today. Tried to follow along in practical but failed. Also, little bit of frontend. Didn't know i could get stuck at frontend too of all things. Couldn't do a lot, had some other stuff to do. Same for tomorrow as well.
