@@ -110,3 +110,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 35
   > Didn't get a lot of time today. Today(yesterday) was a very important day. It has nothing to do with code so not posting any details. Just mental images with me. Also, i managed to watch half of a Coding Tech vid and search for some react projects or PWAs. I think i have some in mind. Will see to it tomorrow.
+
+* Day 36
+  > It was sunday so i took rest. But i didn't fail the challenge, did a little frontend today. Not that valuable stuff.
