@@ -113,3 +113,7 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 36
   > It was sunday so i took rest. But i didn't fail the challenge, did a little frontend today. Not that valuable stuff.
+
+* Day 37
+  > Spent half the day resting and other half thinking of what to make next. So, started making a pokedex with React. Not that complex one, the easy one from an articl. Will push here too, in a while.
+
