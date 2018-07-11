@@ -119,3 +119,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 38
   > Completed the Pokedex. For someone wanting to know what it is, here is a cool implementation of it [https://www.pokedex.org/](https://www.pokedex.org/). I made a simpler one, very simpler one from this [article](https://blog.cloudboost.io/lets-build-a-pokedex-with-react-part-1-e1ba0b9387a7). Got into a little problem with fetch, which i didn't think i would (cuz i studied it before). Turns out, i forgot the basics. No i'm thinking of making something cool. It would take a lot of searching.
+
+* Day 39
+  > Watched some JS today. It was about some algorithms. Will try implement those tomorrow. Not much was done today except a little basic code.
