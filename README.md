@@ -122,3 +122,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 39
   > Watched some JS today. It was about some algorithms. Will try implement those tomorrow. Not much was done today except a little basic code.
+
+* Day 40
+  > Didn't do a lot, just some basic videos. Learnt about the basics of [Tensorflow.js](js.tensorflow.org) (tensors, variables, functions, memory management). Its a good thing but something i would not suggest as a beginner though. Also, i'm kinda documenting yesterday so don't really remember what i did.
