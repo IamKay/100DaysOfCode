@@ -125,3 +125,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 40
   > Didn't do a lot, just some basic videos. Learnt about the basics of [Tensorflow.js](js.tensorflow.org) (tensors, variables, functions, memory management). Its a good thing but something i would not suggest as a beginner though. Also, i'm kinda documenting yesterday so don't really remember what i did.
+
+* Day 41
+  > Was at an event of Actions on Google. Learnt a lot from it, and will build something in it. There was definitely code in it. 60 days to go. Not that strong now.
