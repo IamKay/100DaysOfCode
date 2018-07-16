@@ -130,4 +130,4 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
   > Was at an event of Actions on Google. Learnt a lot from it, and will build something in it. There was definitely code in it. 60 days to go. Not that strong now.
 
 * Day 42
-  > Today was frontend day. Spent half the day doing HTML and CSS. Nothing worth showing though. Can't get time for something big.
+  > Today was frontend day. Spent half the day doing HTML and CSS. Nothing worth showing though. Can't get time for something big. Maybe tomorrow. Also, i think i am messing up the time that i write this. I will try to maintain it.
