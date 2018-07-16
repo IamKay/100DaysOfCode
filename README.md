@@ -128,3 +128,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 41
   > Was at an event of Actions on Google. Learnt a lot from it, and will build something in it. There was definitely code in it. 60 days to go. Not that strong now.
+
+* Day 42
+  > Today was frontend day. Spent half the day doing HTML and CSS. Nothing worth showing though. Can't get time for something big.
