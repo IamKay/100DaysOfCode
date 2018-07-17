@@ -131,3 +131,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 42
   > Today was frontend day. Spent half the day doing HTML and CSS. Nothing worth showing though. Can't get time for something big. Maybe tomorrow. Also, i think i am messing up the time that i write this. I will try to maintain it.
+
+* Day 43
+  > Today, i didn't waste my time (only half a day. Progress!). So today i was working on actions for assistant. I made a prototype. The correct one will function if i get a suitable API. I have to say i need to get ideas on handling entities dynamically and efficiently (wow, big words!). So, hope that i find the API or the data soon. Until then, the action is complete.
