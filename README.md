@@ -134,3 +134,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 43
   > Today, i didn't waste my time (only half a day. Progress!). So today i was working on actions for assistant. I made a prototype. The correct one will function if i get a suitable API. I have to say i need to get ideas on handling entities dynamically and efficiently (wow, big words!). So, hope that i find the API or the data soon. Until then, the action is complete.
+
+* Day 44
+  > Did a little research as to what new features to add to the action(it seemed a little dull). Found some features but it would be redundant to implement them as i dont have an API(i would hav to change the implementation when i get the API). Also, currently doing a little frontend for a friend. Its with a little PHP too. Kind of in a pickle here. I can't figure out how to use CSS to push down content when introducing an already present element. Stackoverflow says its impossible. Not me.
