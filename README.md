@@ -137,3 +137,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 44
   > Did a little research as to what new features to add to the action(it seemed a little dull). Found some features but it would be redundant to implement them as i dont have an API(i would hav to change the implementation when i get the API). Also, currently doing a little frontend for a friend. Its with a little PHP too. Kind of in a pickle here. I can't figure out how to use CSS to push down content when introducing an already present element. Stackoverflow says its impossible. Not me.
+
+* Day 45
+  > Still doing frontend. Today i bought a home mini so half a day went there. Other than that i was making the homepage for a site that i am working on. Nothing difficult, just cool HTML, CSS.
