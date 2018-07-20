@@ -140,3 +140,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 45
   > Still doing frontend. Today i bought a home mini so half a day went there. Other than that i was making the homepage for a site that i am working on. Nothing difficult, just cool HTML, CSS.
+
+* Dy 46
+  > Nothing new. Same as day 45.
