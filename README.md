@@ -143,3 +143,7 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Dy 46
   > Nothing new. Same as day 45.
+
+* Day 47
+  > Finally finished the work. It was really a front end pickle and kinda led me to the edge. Hope that i keep facing the edges. So, probably something new tomorrow.
+
