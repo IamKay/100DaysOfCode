@@ -147,3 +147,5 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 * Day 47
   > Finally finished the work. It was really a front end pickle and kinda led me to the edge. Hope that i keep facing the edges. So, probably something new tomorrow.
 
+* Day 48
+  > So, i tried circle packing in JS today. Turns out JS canvas is still not that mature. There aren't methods to read an image without a canvas. Its not easy for me to accept defeat for JS. I will try another approach, but not in the near future.I will push something or other here in this week though.
