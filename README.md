@@ -149,3 +149,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 48
   > So, i tried circle packing in JS today. Turns out JS canvas is still not that mature. There aren't methods to read an image without a canvas. Its not easy for me to accept defeat for JS. I will try another approach, but not in the near future.I will push something or other here in this week though.
+
+* Day 49
+  > Came across something called Fractals today. Also made my first fractal called the *Barnsley Fern* in JS. Pushed to github [here](https://github.com/kayd33/Some-Pens/tree/master/Fern). Link to the video of [Dan](https://github.com/kayd33/Some-Pens/tree/master/Fern). Some other fractal next.
