@@ -152,3 +152,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 49
   > Came across something called Fractals today. Also made my first fractal called the *Barnsley Fern* in JS. Pushed to github [here](https://github.com/kayd33/Some-Pens/tree/master/Fern). Link to the video of [Dan](https://github.com/kayd33/Some-Pens/tree/master/Fern). Some other fractal next.
+
+* Day 50
+  > Watched videos of making fractals on Dan's channel (link above) and thought "basic is easy". So i kept watching but didn't make any today.
