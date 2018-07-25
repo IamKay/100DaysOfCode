@@ -155,3 +155,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 50
   > Watched videos of making fractals on Dan's channel (link above) and thought "basic is easy". So i kept watching but didn't make any today.
+
+* Day 51
+  > Did frontend JS today. Nothing major. Also, started watching a Neural net trilogy on (FunFunFunction)[https://www.youtube.com/watch?v=o98qlvrcqiU]. Not going to follow, just listen. I love MPJ but in this one, he seems a bit rude for the ML people. Could be just my views. I still liked the videos. (watched 2 of them). 50 days to go, im ok.
