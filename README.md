@@ -158,3 +158,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 51
   > Did frontend JS today. Nothing major. Also, started watching a Neural net trilogy on (FunFunFunction)[https://www.youtube.com/watch?v=o98qlvrcqiU]. Not going to follow, just listen. I love MPJ but in this one, he seems a bit rude for the ML people. Could be just my views. I still liked the videos. (watched 2 of them). 50 days to go, im ok.
+
+* Day 52
+  > Completed the FFF neural net videos. Learned about the basics from the Andrew Ng course of ML (Machine Learning). Hope that i continue on it. Also, did a little frontend JS. I am getting more and more distracted now a days. Its one of those that just won't go away that easily.
