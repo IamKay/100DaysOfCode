@@ -161,3 +161,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 52
   > Completed the FFF neural net videos. Learned about the basics from the Andrew Ng course of ML (Machine Learning). Hope that i continue on it. Also, did a little frontend JS. I am getting more and more distracted now a days. Its one of those that just won't go away that easily.
+
+* Day 53
+  > Things didn't go as planned and i only managed to frontend today. Not able to make time for the big stuff.
