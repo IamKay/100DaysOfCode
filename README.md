@@ -164,3 +164,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 53
   > Things didn't go as planned and i only managed to frontend today. Not able to make time for the big stuff.
+
+* Day 54
+  > Finally a change. Today i made a number sequence visualisation in JS from Dan's [video](https://www.youtube.com/watch?v=DhFZfzOvNTU). It looks ok, but i think i made it very browser heavy. You can check [it](https://codepen.io/KayD33/full/LBOLVY/) if you want. Also, couple of lectures from a ML course on [NPTEL](https://onlinecourses.nptel.ac.in). All in all
