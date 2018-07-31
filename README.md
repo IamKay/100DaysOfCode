@@ -170,3 +170,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 55
   > So half of today was a spent in searching for a project that i make next. Also, next half was spent reading and trying to understand **Go** code. I do have the project in mind, but cant share yet. It is big for me, that i can tell. It might take a while to make it, so will start from tomorrow. (Also, when i say half the day, it doesn't mean 12hrs but much less)
+
+* Day 56
+  > So i spent the day making some trials for the project that i want to build. Turns out that it is more difficult than i previously thought. So, for the next 10 days or so, i don't think there will be more something other than this.
