@@ -173,3 +173,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 56
   > So i spent the day making some trials for the project that i want to build. Turns out that it is more difficult than i previously thought. So, for the next 10 days or so, i don't think there will be more something other than this.
+
+* Day 57
+  > Same log as yesterday just a lot less in time. I got sick so couldn't manage to do a lot.
