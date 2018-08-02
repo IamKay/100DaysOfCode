@@ -176,3 +176,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 57
   > Same log as yesterday just a lot less in time. I got sick so couldn't manage to do a lot.
+
+* Day 58
+  > Couldn't do anything today, barely can even write this log.
