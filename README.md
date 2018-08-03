@@ -179,3 +179,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 58
   > Couldn't do anything today, barely can even write this log.
+
+* Day 59
+  > Tried what i could in my condition. Tried to understand how i would go about making the project. The test/trials that i made didn't work so i'm still at square one unfortunately. Hope to see some progress when i'm better.
