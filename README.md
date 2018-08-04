@@ -182,3 +182,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 59
   > Tried what i could in my condition. Tried to understand how i would go about making the project. The test/trials that i made didn't work so i'm still at square one unfortunately. Hope to see some progress when i'm better.
+
+* Day 60
+  > Spent the day looking at code and trying to understand it. Its the kind of code i dream of writing but can't understand even a function of it. Beginning to think i bit more than i can chew.
