@@ -185,3 +185,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 60
   > Spent the day looking at code and trying to understand it. Its the kind of code i dream of writing but can't understand even a function of it. Beginning to think i bit more than i can chew.
+
+* Day 61
+  > Didn't get a lot of time but whatever time i got, i tried understanding the code, and i'm finally making a lil progress. So i will begin the **copying** process from tomorrow. 40 days to go, i'm lil better
