@@ -188,3 +188,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 61
   > Didn't get a lot of time but whatever time i got, i tried understanding the code, and i'm finally making a lil progress. So i will begin the **copying** process from tomorrow. 40 days to go, i'm lil better
+
+* Day 62
+  > Had college today, so didn't get that much time. Whatever i got, spent the day reading the damn code.
