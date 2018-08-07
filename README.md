@@ -191,3 +191,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 62
   > Had college today, so didn't get that much time. Whatever i got, spent the day reading the damn code.
+
+* Day 63
+  > Same story as yesterday except that i did a lil hackerrank today. Few questions away from getting a gold badge.
