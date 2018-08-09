@@ -197,3 +197,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 64
   > Returned home tired and forgot about the project. So ended up doing 3 or 4 hackerranks (easy ones) and finally got a gold badge. Also, my first time implementing linked lists in JS. So much better than C.
+
+* Day 65
+  > Just can't seem to get time for the project. Something interferes everytime. Today were physical conditions, tomorrrow it will be another task. I hope i can start that soon. BTW, did some hackerrrank, trying to increase the ranking.
