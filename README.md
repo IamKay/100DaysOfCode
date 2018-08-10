@@ -202,4 +202,4 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
   > Just can't seem to get time for the project. Something interferes everytime. Today were physical conditions, tomorrrow it will be another task. I hope i can start that soon. BTW, did some hackerrrank, trying to increase the ranking.
 
 * Day 66
-  > Did a little frontend today (some funky html elements). Still not getting the time or the will to start the project. Thats all.
+  > Did a lil frontend today (some funky html elements). Still not getting the time or the will to start the project. Thats all.
