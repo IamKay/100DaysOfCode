@@ -203,3 +203,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 66
   > Did a lil frontend today (some funky html elements). Still not getting the time (*or the will*) to start the project. Thats all for.
+
+* Day 67
+  > Holiday today and so i had more time than usual. Did frontend today, that took a lot of time. Other than that, i searched for other technologies and kept looking. Just for knowledge, not changing that fast. Also, didn't do any hackerrank either.
