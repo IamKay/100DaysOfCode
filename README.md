@@ -206,3 +206,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 67
   > Holiday today and so i had more time than usual. Did frontend today, that took a lot of time. Other than that, i searched for other technologies and kept looking. Just for knowledge, not changing that fast. Also, didn't do any hackerrank either.
+
+* Day 68
+  > Sunday was rest day. However i did a little html, and listened to some podcasts. So that counts as code too and i'm still in the challenge.
