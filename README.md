@@ -209,3 +209,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 68
   > Sunday was rest day. However i did a little html, and listened to some podcasts. So that counts as code too and i'm still in the challenge.
+
+* Day 69
+  > Completed my daily quota of html. Big news is that finally i'm starting the project now. I have an hour and a half for today's time. So good luck to me.
