@@ -212,3 +212,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 69
   > Completed my daily quota of html. Big news is that finally i'm starting the project now. I have an hour and a half for today's time. So good luck to me.
+
+* Day 70
+  > Couldn't do project today (tired) so began listening to [Talk Python to me](https://talkpython.fm/). Listened two episodes today.
