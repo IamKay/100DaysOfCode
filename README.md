@@ -215,3 +215,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 70
   > Couldn't do project today (tired) so began listening to [Talk Python to me](https://talkpython.fm/). Listened two episodes today.
+
+* Day 71
+  > Worked on the project today and realised that if you are working on JS, you have to know about promises. In detail. Not just the theory but the ways in which they can be used, apparently there are many. 30 days to go, regaining the strength.
