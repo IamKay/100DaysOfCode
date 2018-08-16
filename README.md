@@ -218,3 +218,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 71
   > Worked on the project today and realised that if you are working on JS, you have to know about promises. In detail. Not just the theory but the ways in which they can be used, apparently there are many. 30 days to go, regaining the strength.
+
+* Day 72
+  > Did some tough frontend stuff. Tough for me only. Couldn't figure out the javascript logic for it. Finally i did. Also, very lil work is done on the project. Hope to do more tomorrow.
