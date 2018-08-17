@@ -221,3 +221,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 72
   > Did some tough frontend stuff. Tough for me only. Couldn't figure out the javascript logic for it. Finally i did. Also, very lil work is done on the project. Hope to do more tomorrow.
+
+* Day 73
+  > Learnt Wordpress today. Friend had a doubt so i had to learn it first (i was postponing wordpress for a while, so win win). So now i know the basics and i'm glad i didn't learn it before. Now beginning the work on the project too.
