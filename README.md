@@ -224,3 +224,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 73
   > Learnt Wordpress today. Friend had a doubt so i had to learn it first (i was postponing wordpress for a while, so win win). So now i know the basics and i'm glad i didn't learn it before. Now beginning the work on the project too.
+
+* Day 74
+  > Did some video watching for some JS logic i need for making a image slider (not really a simple one) for a friend. It includes touch and gesture support as well so got to carry extra weight of jQuery-UI. Sad. Other than that, didn;t write any meaningful code.
