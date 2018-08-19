@@ -227,3 +227,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 74
   > Did some video watching for some JS logic i need for making a image slider (not really a simple one) for a friend. It includes touch and gesture support as well so got to carry extra weight of jQuery-UI. Sad. Other than that, didn;t write any meaningful code.
+
+* Day 75
+  > Managed to do a lil bit of frontend. Also, have to make a couple of widgets in react for someone, so i'll begin those tomorrow.
