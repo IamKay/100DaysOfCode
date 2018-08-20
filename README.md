@@ -230,3 +230,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 75
   > Managed to do a lil bit of frontend. Also, have to make a couple of widgets in react for someone, so i'll begin those tomorrow.
+
+* Day 76
+  > Started doing the react stuff i was talking about. I'll post a link to the repo(s) soon. Also, installing preact is difficult. So a fix is to use **yarn**. Even then a couple of dependencies are left. So either configure the project by hand or just use **create-react-app**.
