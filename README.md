@@ -233,3 +233,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 76
   > Started doing the react stuff i was talking about. I'll post a link to the repo(s) soon. Also, installing preact is difficult. So a fix is to use **yarn**. Even then a couple of dependencies are left. So either configure the project by hand or just use **create-react-app**.
+
+* Day 77
+  > Managed to do a lil hackerrank. It was for a competition, and i couldn;t even solve one q. Sad. Also, resumed a bit on the project. Hope to see it complete soon (I don't think it will be though)
