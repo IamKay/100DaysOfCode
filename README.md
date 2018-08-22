@@ -236,3 +236,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 77
   > Managed to do a lil hackerrank. It was for a competition, and i couldn;t even solve one q. Sad. Also, resumed a bit on the project. Hope to see it complete soon (I don't think it will be though)
+
+* Day 78
+  > Chilled half the day. Rest half was spent on hackerrank and worrying about why i can't solve on hackerrank. Now working on the project (i don't know why i'm not interested in doing it more often)
