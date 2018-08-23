@@ -239,3 +239,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 78
   > Chilled half the day. Rest half was spent on hackerrank and worrying about why i can't solve on hackerrank. Now working on the project (i don't know why i'm not interested in doing it more often)
+
+* Day 79
+  > Did some project work today. Progress is good, however i have to say that i don't really understand some / many of the logics so i'm just blindly copying. First time i did that, not proud of it.
