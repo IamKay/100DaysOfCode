@@ -242,3 +242,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 79
   > Did some project work today. Progress is good, however i have to say that i don't really understand some / many of the logics so i'm just blindly copying. First time i did that, not proud of it.
+
+* Day 80
+  > Couldn't manage to do any serious work but i did spend an hour trying to understand a piece of code for my project. Man, you really get to know about the number of pixels when you are working on every single one of them
