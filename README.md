@@ -248,3 +248,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 81
   > Spent about 16 hours in front of my laptop. 10 were about the project, maybe a couple for studying for exams and the rest i don't know. So, the test version is running, that too very sloppy. I intent to build on it and make it better. But that will happen after my exams. So the plan is to just watch code videos while the exams and share the links. Can't really code in the meantime. 20 days to go, meh.
+
+* Day 82
+  > As i said, i could only watch videos. So here is today's [https://www.youtube.com/watch?v=JSn-DJU8qf0](https://www.youtube.com/watch?v=JSn-DJU8qf0). Didn't even watch it full.
