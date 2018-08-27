@@ -251,3 +251,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 82
   > As i said, i could only watch videos. So here is today's [https://www.youtube.com/watch?v=JSn-DJU8qf0](https://www.youtube.com/watch?v=JSn-DJU8qf0). Didn't even watch it full.
+
+* Day 83
+  > Spent a lot of hours just trying to figure out the logic for a pen. I couldn't fyi. I was hoping to make it in pure canvas, but looks like that is not going to happen. I'll try some other way (not canvas) and upload it when it is completed. As for the video, here is today's [https://www.youtube.com/watch?v=67k3I2GxTH8](https://www.youtube.com/watch?v=67k3I2GxTH8).
