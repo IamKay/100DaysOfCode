@@ -257,3 +257,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 84
   > Didn't do a lot except thinking on that logic. Also, today's video [https://www.youtube.com/watch?v=d-PZ78KDeag](https://www.youtube.com/watch?v=d-PZ78KDeag)
+
+* Day 85
+  > Worked on the pen i mentioned earlier. It involves playing with coordinate geometry and thats why its taking a lot of time. Its maybe 10% completed. Also, no video today.
