@@ -260,3 +260,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 85
   > Worked on the pen i mentioned earlier. It involves playing with coordinate geometry and thats why its taking a lot of time. Its maybe 10% completed. Also, no video today.
+
+* Day 86
+  > Worked (cracked my brain to be specific) on the pen. The only thing keeping it from its next stage is that an element cannot be shrunk beyond 0% in CSS. Spent half the day on it. 6-7 hrs.
