@@ -263,3 +263,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 86
   > Worked (cracked my brain to be specific) on the pen. The only thing keeping it from its next stage is that an element cannot be shrunk beyond 0% in CSS. Spent half the day on it. 6-7 hrs.
+
+* Day 87
+  > Worked on the project (main one) and finally got it to work. It is pushed [here](https://github.com/IamKay/Geometrize).
