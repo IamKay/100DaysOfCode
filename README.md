@@ -269,3 +269,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 88
   > Added a little bit of my on fixes in the project. All that remains now is the styling (if i choose). I'll do that tomorrow. Other than that, didn't get much time today to do anything else. Oh, today's video [https://www.youtube.com/watch?v=aKYlikFAV4k](https://www.youtube.com/watch?v=aKYlikFAV4k)
+
+* Day 89
+  > Didn't work on project. Instead, i fixed half the links in my projects on GH. It took longer than i thought. After that, i tried and solved 2 hackerrank problems (although beginner level).
