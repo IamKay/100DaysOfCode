@@ -272,3 +272,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 89
   > Didn't work on project. Instead, i fixed half the links in my projects on GH. It took longer than i thought. After that, i tried and solved 2 hackerrank problems (although beginner level).
+
+* Day 90
+  > Made *very* minor changes in the project. Spent the day searching for scholarships by google. I found a couple in Udacity but i missed the deadline by 7 months. Sad. Also, i would like to make an official claim that *I will get a google certification before completing college*. Its a thing i get excited about it and forget after a while. So, little work today.
