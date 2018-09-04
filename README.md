@@ -275,3 +275,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 90
   > Made *very* minor changes in the project. Spent the day searching for scholarships by google. I found a couple in Udacity but i missed the deadline by 7 months. Sad. Also, i would like to make an official claim that *I will get a google certification before completing college*. Its a thing i get excited about it and forget after a while. So, little work today.
+
+* Day 91
+  > Finished 2 modules of the Google's machine learning course. By *finished* i mean read. I understood only a little of it. 10 days to go. Finally towards the end
