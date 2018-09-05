@@ -278,3 +278,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 91
   > Finished 2 modules of the Google's machine learning course. By *finished* i mean read. I understood only a little of it. 10 days to go. Finally towards the end
+
+* Day 92
+  > Did two more modules of the course. Didn't get time for anything more.
