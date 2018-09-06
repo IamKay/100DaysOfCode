@@ -281,3 +281,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 92
   > Did two more modules of the course. Didn't get time for anything more.
+
+* Day 93
+  > Completed two more modules of the course. It was easy in the beginning but there are more and more unfamiliar concepts like *Binning*, *Feature crossing*, *One hot encoding*. I am writing this 2 hours early (not that its important) because i might have to go sleep in a hurry and i may not have the time for this.
