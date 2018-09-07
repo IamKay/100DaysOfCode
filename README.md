@@ -286,4 +286,4 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
   > Completed two more modules of the course. It was easy in the beginning but there are more and more unfamiliar concepts like *Binning*, *Feature crossing*, *One hot encoding*. I am writing this 2 hours early (not that its important) because i might have to go sleep in a hurry and i may not have the time for this.
 
 * Day 94
-  > Completed one more module and left one (too difficult for me, will do later). Now it will be on hold because i got another course to do. Will share the link soon.
+  > Completed one more module and left one (too difficult for me, will do later). Now it will be on hold because i got another course to do. Its mainly a frontend course and is supposed to be good. Will share the link soon. Also, i *think* i will make  repo of what i make during the course.
