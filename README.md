@@ -287,3 +287,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 94
   > Completed one more module and left one (too difficult for me, will do later). Now it will be on hold because i got another course to do. Its mainly a frontend course and is supposed to be good. Will share the link soon. Also, i *think* i will make  repo of what i make during the course.
+
+* Day 95
+  > No ML today. Finished a beginners course on Angular. It was a short one (1 or 1.5 hrs total). The link is [here](https://www.pluralsight.com/courses/ng-big-picture). Now I'm beginning another one (link soon). I just hope i don't get lost in tutorial madness.
