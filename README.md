@@ -290,3 +290,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 95
   > No ML today. Finished a beginners course on Angular. It was a short one (1 or 1.5 hrs total). The link is [here](https://www.pluralsight.com/courses/ng-big-picture). Now I'm beginning another one (link soon). I just hope i don't get lost in tutorial madness.
+
+* Day 96
+  > Continued with the course. Completed 2 modules today. About 3 hrs of content still remains. Also, made a repo for the things i will make during the course. Repo [here](https://github.com/kaydee/Pluralsight)
