@@ -293,3 +293,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 96
   > Continued with the course. Completed 2 modules today. About 3 hrs of content still remains. Also, made a repo for the things i will make during the course. Repo [here](https://github.com/kaydee/Pluralsight)
+
+* Day 97
+  > Finished two more modules in the Pluralsight course (Progress is being uploaded side by side). I don't know the number but there are many left. Also, i'll finish two modules of the MLCC course before sleeping. Sometimes i think i am taking a lil too much load for my own good.
