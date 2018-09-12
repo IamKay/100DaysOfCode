@@ -298,7 +298,7 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
   > Finished two more modules in the Pluralsight course (Progress is being uploaded side by side). I don't know the number but there are many left. Also, i'll finish two modules of the MLCC course before sleeping. Sometimes i think i am taking a lil too much load for my own good. [Update: finished one (out of the said two) module of MLCC] It was about crossing different features to make increase the efficiency that we get from linear models.
 
 * Day 98
-  > Finished another module of MLCC. Could only manage to do this much, i was feeling a lil sleepy today.
+  > Finished another module of MLCC. It was about *L2 regualarisation* which is used to ensure that the model doesn't overfit or underfit with training data and testing data. Could only manage to do this much, i was feeling a lil sleepy today.
 
 * Day 99
   > Did one more module of MLCC. Attempted to complete another one but failed. It wasn't even half completed. And yes i know the Pluralsight course is pending and i will get to it as soon as i can (maybe tomorrow).
