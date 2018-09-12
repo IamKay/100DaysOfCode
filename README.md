@@ -299,3 +299,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 98
   > Finished another module of MLCC. Could only manage to do this much, i was feeling a lo sleepy today.
+
+* Day 99
+  > Did one more module of MLCC. Attempted to complete another one but failed. It wasn't even half completed. And yes i know the Pluralsight course is pending and i will get to it as soon as i can (maybe tomorrow).
