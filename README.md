@@ -305,3 +305,7 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 100
   > Did one more module of MLCC. It was about *Logistic Reasoning*. The gist is that we pass our regular predictions (that we got from the model) through a sigmoid function (Sigmoid changes the value(s) to fit in the 0-1 range(inclusive).) and the resulting value is the probability that we can use to classify the result into categories. (Eg. Spam or not spam)
+
+
+## 100 days are complete now. ##
+**Challenge complete**
