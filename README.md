@@ -302,3 +302,6 @@ This is my second attempt at this challenge. Last time, i did not know the "docu
 
 * Day 99
   > Did one more module of MLCC. Attempted to complete another one but failed. It wasn't even half completed. And yes i know the Pluralsight course is pending and i will get to it as soon as i can (maybe tomorrow).
+
+* Day 100
+  > Did one more module of MLCC. It was about *Logistic Reasoning*. The gist is that we pass our regular predictions (that we got from the model) through a sigmoid function (Sigmoid changes the value(s) to fit in the 0-1 range(inclusive).) and the resulting value is the probability that we can use to classify the result into categories. (Eg. Spam or not spam)
